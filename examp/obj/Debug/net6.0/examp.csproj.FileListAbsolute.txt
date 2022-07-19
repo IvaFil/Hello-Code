@@ -1,0 +1,15 @@
+C:\Users\Иван\Desktop\привконс\examp\bin\Debug\net6.0\examp.exe
+C:\Users\Иван\Desktop\привконс\examp\bin\Debug\net6.0\examp.deps.json
+C:\Users\Иван\Desktop\привконс\examp\bin\Debug\net6.0\examp.runtimeconfig.json
+C:\Users\Иван\Desktop\привконс\examp\bin\Debug\net6.0\examp.dll
+C:\Users\Иван\Desktop\привконс\examp\bin\Debug\net6.0\examp.pdb
+C:\Users\Иван\Desktop\привконс\examp\obj\Debug\net6.0\examp.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\привконс\examp\obj\Debug\net6.0\examp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\привконс\examp\obj\Debug\net6.0\examp.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\привконс\examp\obj\Debug\net6.0\examp.AssemblyInfo.cs
+C:\Users\Иван\Desktop\привконс\examp\obj\Debug\net6.0\examp.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\привконс\examp\obj\Debug\net6.0\examp.dll
+C:\Users\Иван\Desktop\привконс\examp\obj\Debug\net6.0\refint\examp.dll
+C:\Users\Иван\Desktop\привконс\examp\obj\Debug\net6.0\examp.pdb
+C:\Users\Иван\Desktop\привконс\examp\obj\Debug\net6.0\examp.genruntimeconfig.cache
+C:\Users\Иван\Desktop\привконс\examp\obj\Debug\net6.0\ref\examp.dll
